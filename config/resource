@@ -1,0 +1,12 @@
+{
+    "docker-project":
+    {
+        "projects":
+        [
+            {
+                "name": "lunatv-fnos",
+                "path": "docker"
+            }
+        ]
+    }
+}

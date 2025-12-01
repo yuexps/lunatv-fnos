@@ -1,0 +1,13 @@
+{
+    ".url": {
+        "lunatv.Application": {
+            "title": "LunaTV",
+            "icon": "images/icon_{0}.png",
+            "type": "url",
+            "protocol": "http",
+            "port": "22388",
+            "url": "/",
+            "allUsers": true
+        }
+    }
+}

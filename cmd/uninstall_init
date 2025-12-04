@@ -2,9 +2,4 @@
 
 ### This script is called before the user uninstalls the application.
 
-# 如果用户选择删除数据，则移除kvrocks-data卷
-if [ "$wizard_data_action" = "delete" ]; then
-    docker volume rm kvrocks-data-fnos 2>/dev/null || true
-fi
-
 exit 0
